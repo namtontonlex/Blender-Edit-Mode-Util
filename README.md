@@ -20,6 +20,8 @@ Utility Tools for blender Edit Mode
 🚀 วิธีใช้งาน
 
 แถบเครื่องมือจะอยู่ที่ 3D Viewport > Side Panel (กด N) > แถบ Edit Util
+
+
 <img width="714" height="475" alt="Snap" src="https://github.com/user-attachments/assets/ff0b7848-6bc5-470b-bfe7-bb06df2ef050" />
 
 1. Surface Snap
@@ -33,7 +35,9 @@ Utility Tools for blender Edit Mode
     ESC หรือ คลิกขวา: เพื่อออกจากโหมดแปรง
    
 
+
 <img width="783" height="596" alt="Lock" src="https://github.com/user-attachments/assets/2f4bfc5a-bda5-44c7-b7fe-a4359aa178b5" />
+
 2. Vertex Lock
 
     เลือก Vertex ที่ต้องการล็อก
