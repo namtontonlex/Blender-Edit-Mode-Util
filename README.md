@@ -1,6 +1,7 @@
 # Blender-Edit-Mode-Util
 Utility Tools for blender Edit Mode
 เครื่องมือรวมคำสั่งอำนวยความสะดวกสำหรับ Edit Mode ใน Blender โดยเน้นไปที่การดูดติดพื้นผิว (Surface Snapping) และการล็อกตำแหน่งจุด (Vertex Locking)
+
 🛠 ฟีเจอร์หลัก
 
     Surface Snap Brush: แปรงสำหรับดูด Vertex ให้แนบไปกับพื้นผิวของวัตถุอื่นในฉากทันที
@@ -54,4 +55,4 @@ Utility Tools for blender Edit Mode
   
     1.นำไปใช้ได้ฟรีทั้งส่วนตัวและเชิงพานิชย์
   
-    2.แก้ไขและดผยแพร่ได้แต่ต้องเผยแพร่โค้ดทั้งหมดด้วย
+    2.แก้ไขและเผยแพร่ได้แต่ต้องเผยแพร่โค้ดทั้งหมดด้วย
