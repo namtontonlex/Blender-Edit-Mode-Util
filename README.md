@@ -56,3 +56,37 @@ Utility Tools for blender Edit Mode
     1.นำไปใช้ได้ฟรีทั้งส่วนตัวและเชิงพานิชย์
   
     2.แก้ไขและเผยแพร่ได้แต่ต้องเผยแพร่โค้ดทั้งหมดด้วย
+
+
+Edit_Mode_Util
+
+Integrated tools for Surface Snapping and Vertex Locking in Blender Edit Mode.
+Features
+
+    Interactive Surface Snap: Allows you to interactively snap vertices to a target mesh surface using a brush-like tool.
+
+    Vertex Lock: Lock specific vertices in place to prevent accidental movement, with visual feedback.
+
+Installation
+
+    Download this repository as a .zip file.
+
+    Open Blender.
+
+    Go to Edit > Preferences > Add-ons > Install...
+
+    Select the downloaded zip file.
+
+    Enable the "Edit_Mode_Util" add-on.
+
+Usage
+
+    Surface Snap: Open the "Edit Util" panel in the N-panel (Side bar) while in Edit Mode.
+
+    Vertex Lock: Select vertices, then use the "Lock" button or press Alt + Space. Use Ctrl + Alt + Space to unlock all.
+
+License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+By using, modifying, or distributing this software, you agree to the terms of the GPL-3.0 license. You can find a copy of the license in the LICENSE file included in this repository, or at https://www.gnu.org/licenses/gpl-3.0.html.
